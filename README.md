@@ -1,4 +1,4 @@
-Hi!!! this is my first experience using Next.Js learning with the developer and youtuber (MiduDev)[https://www.youtube.com/watch?v=pFT8wD2uRSE&t=1040s&ab_channel=midulive], for sure if you are from Latinamerica or Spain you know him however, if you are not, you can follow him on (youtube)[https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ] and you fill find, as me, lot of courses and awsome videos to watch and learn technolgies most of them related to Javascript - Node.Js
+Hi!!! this is my first experience using Next.Js learning with the developer and youtuber[MiduDev](https://github.com/midudev) with his [8 hours video about it!](https://www.youtube.com/watch?v=pFT8wD2uRSE&t=1040s&ab_channel=midulive), for sure if you are from Latinamerica or Spain you know him however, if you are not, you can follow him on [youtube](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ) and you fill find, as me, lot of courses and awsome videos to watch and learn technolgies most of them related to Javascript - Node.Js
 
 ## Getting Started
 

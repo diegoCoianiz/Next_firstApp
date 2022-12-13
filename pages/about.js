@@ -11,12 +11,12 @@ export default function About({list}) {
     )
 }
 
-export async function getServerSideProps() {
-    let list = []
-    while(list.length < 5) list.push("hola")
-    return {
-        props: {
-            list
-        }
-    }
-}
+// export async function getServerSideProps() {
+//     let list = []
+//     while(list.length < 5) list.push("hola")
+//     return {
+//         props: {
+//             list
+//         }
+//     }
+// }
